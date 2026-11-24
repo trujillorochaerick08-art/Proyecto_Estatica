@@ -1,0 +1,67 @@
+
+=== CALCULADORA DE ESTÁTICA (PLANO XZ) ===
+1. Registrar fuerza
+2. Calcular componentes
+3. Calcular momentos
+4. Calcular resultante
+5. Verificar equilibrio
+6. Mostrar fuerzas registradas
+7. Eliminar fuerza
+8. Salir
+Opción: Magnitud (N): Ángulo desde +X hacia +Z (grados): Posición X (m): Posición Z (m): Fuerza registrada.
+
+=== CALCULADORA DE ESTÁTICA (PLANO XZ) ===
+1. Registrar fuerza
+2. Calcular componentes
+3. Calcular momentos
+4. Calcular resultante
+5. Verificar equilibrio
+6. Mostrar fuerzas registradas
+7. Eliminar fuerza
+8. Salir
+Opción: F1: Fx=657.78 N, Fz=239.41 N
+
+=== CALCULADORA DE ESTÁTICA (PLANO XZ) ===
+1. Registrar fuerza
+2. Calcular componentes
+3. Calcular momentos
+4. Calcular resultante
+5. Verificar equilibrio
+6. Mostrar fuerzas registradas
+7. Eliminar fuerza
+8. Salir
+Opción: F1: My=-957.66 N·m
+Momento total My=-957.66 N·m
+
+=== CALCULADORA DE ESTÁTICA (PLANO XZ) ===
+1. Registrar fuerza
+2. Calcular componentes
+3. Calcular momentos
+4. Calcular resultante
+5. Verificar equilibrio
+6. Mostrar fuerzas registradas
+7. Eliminar fuerza
+8. Salir
+Opción: Suma Fx=657.78 N, Suma Fz=239.41 N, R=700.00 N
+
+=== CALCULADORA DE ESTÁTICA (PLANO XZ) ===
+1. Registrar fuerza
+2. Calcular componentes
+3. Calcular momentos
+4. Calcular resultante
+5. Verificar equilibrio
+6. Mostrar fuerzas registradas
+7. Eliminar fuerza
+8. Salir
+Opción: No está en equilibrio
+
+=== CALCULADORA DE ESTÁTICA (PLANO XZ) ===
+1. Registrar fuerza
+2. Calcular componentes
+3. Calcular momentos
+4. Calcular resultante
+5. Verificar equilibrio
+6. Mostrar fuerzas registradas
+7. Eliminar fuerza
+8. Salir
+Opción: Fin del programa.

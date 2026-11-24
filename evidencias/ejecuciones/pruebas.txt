@@ -1,0 +1,10 @@
+test_01_original (__main__.Pruebas.test_01_original) ... ok
+test_02_normal (__main__.Pruebas.test_02_normal) ... ok
+test_03_limite (__main__.Pruebas.test_03_limite) ... ok
+test_04_invalido (__main__.Pruebas.test_04_invalido) ... ok
+test_05_equilibrio (__main__.Pruebas.test_05_equilibrio) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.001s
+
+OK
