@@ -1,0 +1,2 @@
+# Etapa 2. Programa principal
+Crear un SistemaEstatico al comenzar main(). Mantener un ciclo while hasta opción 8. Menú: 1 registrar (crear Fuerza y llamar agregar); 2 componentes individuales; 3 momentos individuales y total; 4 resultante; 5 equilibrio; 6 listar; 7 eliminar por índice; 8 salir. Validar conversión numérica con try/except ValueError. Informar opción inválida y lista vacía. Mostrar resultados a dos decimales, sin alterar precisión interna. Los datos duran únicamente durante la sesión.
